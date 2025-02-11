@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.speech {
+    font-size: 16px;
+    color: black;
+}
+.stage-direction {
+    background-color: lightgray;
+    font-style: italic;
+}
+.stage-direction:hover {
+    background-color: darkgray;
+    color: white;
+}
+.caesar {
+    color: red;
+}
+.brutus {
+    color: blue;
+}
