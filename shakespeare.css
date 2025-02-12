@@ -1,21 +1,40 @@
+/* Global styles */
 body {
     font-family: Arial, sans-serif;
+    margin: 20px;
 }
+
+/* Speech text */
 .speech {
     font-size: 16px;
     color: black;
 }
+
+/* Stage directions */
 .stage-direction {
-    background-color: lightgray;
     font-style: italic;
+    background-color: lightgray;
+    padding: 5px;
 }
+
 .stage-direction:hover {
     background-color: darkgray;
     color: white;
 }
-.caesar {
+
+/* Character names */
+.pericles {
     color: red;
 }
-.brutus {
+
+.fisherman1 {
     color: blue;
+}
+
+.fisherman2 {
+    color: green;
+}
+
+.fisherman3 {
+    color: purple;
 }
